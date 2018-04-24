@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 1
+  date: 2018-04-23
+  concept: 1
+  category: 1
+  amount: 1
+
+two:
+  type: 1
+  date: 2018-04-23
+  concept: 1
+  category: 1
+  amount: 1
